@@ -31,3 +31,8 @@ Github Username
 - 泡溫泉
 - 爬山
 - 打羽球
+
+
+我最喜歡的程式語言 R
+我最討厭的程式語言 SAS
+我最不懂的程式語言 JAVA Spring
